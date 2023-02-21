@@ -9,10 +9,10 @@
 + 指令在代码框
 
 ```
-![]([shell_cmd/TeamLogo.png at main · jiguoji/shell_cmd (github.com)](https://github.com/jiguoji/shell_cmd/blob/main/pic/TeamLogo.png))
+![](https://github.com/jiguoji/shell_cmd/blob/main/pic/TeamLogo.png)
 ```
 
-![]([shell_cmd/TeamLogo.png at main · jiguoji/shell_cmd (github.com)](https://github.com/jiguoji/shell_cmd/blob/main/pic/TeamLogo.png))
+![](https://github.com/jiguoji/shell_cmd/blob/main/pic/TeamLogo.png)
 
 
 
