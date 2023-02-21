@@ -7,4 +7,4 @@ step4 现在，我要在当前md文件里链接这张图片，我必须知道git
 step5 来看看例子吧(大家记得在给文件命名时必须加上 .md 否则打开文件不能看到图片)
 step6 现在我用转义字符将完整的引用格式附在右边，大家在实际使用中应该是看不到下边这条文字信息的：
 
-
+![](https://github.com/jiguoji/shell_cmd/blob/main/add%20people%20permission/TeamLogo.png)
