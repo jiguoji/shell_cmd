@@ -1,2 +1,2 @@
 # shell_cmd
-some notes for shell
+How to add people permission
