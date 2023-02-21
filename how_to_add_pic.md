@@ -12,11 +12,9 @@
 ![](https://github.com/jiguoji/shell_cmd/blob/main/pic/TeamLogo.png)
 ```
 
-![](https://github.com/jiguoji/shell_cmd/blob/main/pic/TeamLogo.png)
+![](https://github.com/jiguoji/shell_cmd/blob/main/pic/Screenshot%202023-02-21%20142258.png)
 
 
 
 
-
-参考link:[Git-Github-notes-for-study/“添加图片”方法.md at master · opensource-team/Git-Github-notes-for-study](https://github.com/opensource-team/Git-Github-notes-for-study/blob/master/"添加图片"方法.md)
 
