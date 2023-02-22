@@ -4,6 +4,8 @@
 
 ![](https://github.com/jiguoji/shell_cmd/blob/main/pic/1.png)
 
+
+
 2.
 
 ![](https://github.com/jiguoji/shell_cmd/blob/main/pic/2.png)
