@@ -12,7 +12,7 @@
 
 ![](https://github.com/jiguoji/shell_cmd/blob/main/pic/3.png)
 
-4.
+4.切换到jiguojix 账号
 
 ![](https://github.com/jiguoji/shell_cmd/blob/main/pic/4.png)
 
